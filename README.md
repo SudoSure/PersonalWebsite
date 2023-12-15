@@ -20,7 +20,7 @@
 ### [LeagueOfLegends](https://github.com/SudoSure/LeagueOfLegends)
 
 
-### [chinder](https://github.com/SudoSure/chinder)
+### [Chinder](https://github.com/SudoSure/chinder)
 
 ## About Me
 
