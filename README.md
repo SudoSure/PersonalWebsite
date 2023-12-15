@@ -2,22 +2,22 @@
 
 ## Projects
 
-### [DSProjects](https://github.com/SudoSure/DSProjects)
+### [Data Science Projects](https://github.com/SudoSure/DSProjects)
 
 
-### [UCRCampusMap](https://github.com/SudoSure/UCRCampusMap)
+### [UCR Campus Map](https://github.com/SudoSure/UCRCampusMap)
 
 
-### [TextBasedRPG](https://github.com/SudoSure/TextBasedRPG)
+### [Text-Based RPG](https://github.com/SudoSure/TextBasedRPG)
 
 
 ### [Frogger](https://github.com/SudoSure/Frogger)
 
 
-### [LeagueOfLegendsModel](https://github.com/SudoSure/LeagueOfLegendsModel)
+### [League of Legends Model](https://github.com/SudoSure/LeagueOfLegendsModel)
 
 
-### [LeagueOfLegends](https://github.com/SudoSure/LeagueOfLegends)
+### [League Of Legends](https://github.com/SudoSure/LeagueOfLegends)
 
 
 ### [Chinder](https://github.com/SudoSure/chinder)
