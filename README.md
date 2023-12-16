@@ -11,16 +11,17 @@
 ### [Text-Based RPG](https://github.com/SudoSure/TextBasedRPG)
 
 
-### [Frogger](https://github.com/SudoSure/Frogger)
+### [Java Frogger Game](https://github.com/SudoSure/Frogger)
 
 
-### [League of Legends Model](https://github.com/SudoSure/LeagueOfLegendsModel)
+### [League of Legends EDA & Prediction Model](https://github.com/SudoSure/LeagueOfLegends)
 
 
-### [League Of Legends](https://github.com/SudoSure/LeagueOfLegends)
+### [Restaurant Recommender](https://github.com/SudoSure/chinder)
 
 
-### [Chinder](https://github.com/SudoSure/chinder)
+### [Rating Prediction & Sentiment Based Recommendations for Google Maps Businesses]([https://github.com/SudoSure/chinder](https://github.com/hgnzheng/CSE158-Assignment_2))
+
 
 ## About Me
 
