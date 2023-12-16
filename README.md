@@ -4,7 +4,7 @@
 
 ### [Data Science Projects](https://github.com/SudoSure/DSProjects)
 
-### [League of Legends EDA & Prediction Model](https://SudoSure.github.io/Portfolio)
+### [League of Legends EDA & Prediction Model](https://SudoSure.github.io/LeagueOfLegends)
 
 ### [Rating Prediction & Sentiment Based Recommendations for Google Maps Businesses](https://github.com/hgnzheng/CSE158-Assignment_2)
 
