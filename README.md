@@ -19,7 +19,7 @@
 
 ## About Me
 
-I am a detail-oriented Data Science student at UC San Diego. As a Research Intern at the California Policy Lab, I conducted national research on generational finances. In software development, I contributed to projects like UCR Campus Map using Google API and a text-based MMORPG game in C++. Proficient in languages such as Python, Java, and JavaScript, I excel in data science with projects on Spotify trends and health cost analysis. My skills extend to 3D model design, cybersecurity, and website development. I am a dedicated problem solver, passionate about pushing the boundaries of technology and data.
+I am a passionate detail-oriented Data Science student at UC San Diego. As a Research Intern at the California Policy Lab, I conducted national research on generational finances. In software development, I contributed to projects like UCR Campus Map using Google API and a text-based MMORPG game in C++. Proficient in languages such as Python, Java, and JavaScript, I excel in data science with projects on Spotify trends and health cost analysis. My skills extend to 3D model design, cybersecurity, and website development. I am a dedicated problem solver, passionate about pushing the boundaries of technology and data.
 
 ## Contact
 
