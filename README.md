@@ -24,5 +24,6 @@ I am a passionate detail-oriented Data Science student at UC San Diego. As a Res
 ## Contact
 
 - Email: trevannguyen@gmail.com
+- Website: https://sudosure.github.io/Portfolio/
 
 
