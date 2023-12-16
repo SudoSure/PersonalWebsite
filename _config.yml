@@ -1,1 +1,2 @@
-gem "minima"
+gem "jekyll-theme-basically-basic"
+theme: jekyll-theme-basically-basic
