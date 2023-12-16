@@ -6,7 +6,7 @@
 
 ### [League of Legends EDA & Prediction Model](https://github.com/SudoSure/LeagueOfLegends)
 
-### [Rating Prediction & Sentiment Based Recommendations for Google Maps Businesses]([https://github.com/SudoSure/chinder](https://github.com/hgnzheng/CSE158-Assignment_2))
+### [Rating Prediction & Sentiment Based Recommendations for Google Maps Businesses](https://github.com/hgnzheng/CSE158-Assignment_2)
 
 ### [Java Frogger Game](https://github.com/SudoSure/Frogger)
 
