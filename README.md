@@ -8,6 +8,8 @@
 
 ### [Rating Prediction & Sentiment Based Recommendations for Google Maps Businesses](https://github.com/hgnzheng/CSE158-Assignment_2/blob/main/CSE_158_A2_Report.pdf)
 
+### [Tokyo Metroline & Population Map Visualization](https://natdosan.github.io/tokyo-transit/)
+
 ### [Java Frogger Game](https://github.com/SudoSure/Frogger)
 
 ### [Text-Based RPG](https://github.com/SudoSure/TextBasedRPG)
