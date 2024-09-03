@@ -1,6 +1,6 @@
 # Trevan Nguyen's GitHub Portfolio
 
-## Projects
+## Projects:
 
 ### [Data Science Projects](https://github.com/SudoSure/DSProjects)
 
